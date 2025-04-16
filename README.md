@@ -14,3 +14,8 @@ Compile a repository of reflective notebooks and project artifacts that document
 - Navigating Cloud-Based Coding Environments
   - Become fluent with Microsoft Copilot to harness its AI-assisted suggestions for reading, troubleshooting, and understanding code—transforming potential challenges into learning opportunities.
 
+Resources:
+
+OpenAI. 2025. ChatGPT (o3-mini-high, 4.0, 4.5), Research Prompt on Large Learning Models, Prompt Engineering, text generation, python code generation. April 16. Retrieved from https://chat.openai.com/ (conversation with AI, not publicly retrievable).
+
+Microsoft. 2025. Microsoft Copilot, Research Prompt on Large Learning Models, Prompt Engineering, text generation, python code generation. Retrieved April 13. Accessed via Microsoft 365 Copilot (conversation not publicly retrievable).
