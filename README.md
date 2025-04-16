@@ -1,6 +1,6 @@
 # ai-for-the-arts
+## Prepared by: Student 3084260
 
-## Mission Statement
 This repository is a curated portfolio that demonstrates my progress toward building my skill set in coding platforms and cultivating a better understanding of code. This portfolio showcases my proficiency in using tools like GitHub, GitHub Codespaces, and Microsoft Copilot but also my ability to critically read, interpret, and reflect on code as a medium for creative expression. By integrating AI-assisted learning with hands-on exercises, my work bridges the gap between technical fluency and the broader cultural and ethical dimensions of digital practice, empowering audiences within the arts and humanities to engage with technology in meaningful ways.
 
 ### Course Goals 
